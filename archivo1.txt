@@ -2,4 +2,8 @@
 "adios" 
 "desde desa" 
 "adios desa" 
+<<<<<<< HEAD
 adios 2 
+=======
+desde remoto
+>>>>>>> 5a5df47821265fa951afe254a132e4e18e080fc2
