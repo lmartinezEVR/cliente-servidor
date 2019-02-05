@@ -1,2 +1,4 @@
 'hola' 
 'adios' 
+'adios2' 
+'desde funcion1 arch1' 
